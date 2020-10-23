@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/peregrine-falcon": "pages/peregrine-falcon.js",
+  "/": "pages/index.js",
+  "/zebra": "pages/zebra.js",
+  "/cheetah": "pages/cheetah.js",
+  "/about-the-author": "pages/about-the-author.js"
+}
