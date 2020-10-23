@@ -1,10 +1,6 @@
 import Link from 'next/link'
-export default  ( ) => <body style={{
-    backgroundImage: 'url("https://earthsky.org/upl/2011/05/peregrine-falcon-diving-800.jpg")',
-    backgroundRepeat: "no-repeat",
-    backgroundAttachment: "fixed",
-    backgroundPosition: "center",
-}}>
+export default  ( ) => <body >
+    <img src="https://earthsky.org/upl/2011/05/peregrine-falcon-diving-800.jpg" />
     <h1 style={{
         color: 'orangered'
     }}>Peregrine Falcon</h1>
