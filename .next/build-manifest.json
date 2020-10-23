@@ -33,21 +33,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/about-the-author.js"
-    ],
-    "/cheetah": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/cheetah.js"
-    ],
-    "/peregrine-falcon": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/peregrine-falcon.js"
-    ],
-    "/zebra": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/zebra.js"
     ]
   },
   "ampFirstPages": []
